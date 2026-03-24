@@ -1,0 +1,10 @@
+Nome: Renan Silva
+
+Descrição:
+Este arquivo contém os links referentes à entrega da atividade.
+
+Repositório no GitHub:
+https://github.com/renansouz/digital-agriculture-py
+
+Vídeo demonstrativo:
+https://youtu.be/haxxozbr2zE
